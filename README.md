@@ -3,16 +3,16 @@
 
 ## 1 - 前端开发技能
 
-- Vue2/3
+- Vue2/3、Electron、UniAPP
 - JavaScript、CSS3、HTML5
-- 掌握框架：Bootstrap、Element-UI、UniAPP
+- Bootstrap、Element-UI
 
 ## 2 - 后端开发技能
 
 - PHP 5.6 - 8.0
 - 掌握框架：ThinkPHP、Laravel
+- 具备自构建后端能力
 
 ## 2 - 原稿设计技能
 
 - Axure、Figma、墨刀
-- 掌握框架：ThinkPHP、Laravel
